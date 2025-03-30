@@ -8,11 +8,11 @@ I am a passionate **ReactJS Developer** with expertise in building scalable and 
 
 ## 🔥 Tech Stack  
 
-- ⚛️ **Frontend:** React.js, Redux, Context API, Next.js  
+- ⚛️ **Frontend:** React.js, Redux, Next.js  
 - 🎨 **Styling:** Tailwind CSS, Styled Components, Bootstrap  
-- 🔗 **API Handling:** Axios, Fetch API, GraphQL  
-- 🛠️ **Development Tools:** Git, Webpack, Vite, ESLint, Prettier  
-- 🧪 **Testing:** Jest, React Testing Library  
+- 🔗 **API Handling:** Axios, Fetch API  
+- 🛠️ **Development Tools:** Git, Webpack, Vite
+
 
 ---
 
