@@ -1,32 +1,29 @@
-# 👋 Hi, I'm Muklendra Pratap Rao!
+# 💻 Hi, I'm Muklendra Pratap Rao 👋
 
-## 🚀 ReactJS Developer | Frontend Enthusiast  
+🚀 Passionate **React.js** Developer | 🌐 Full-Stack Enthusiast | 🎯 Problem Solver  
 
-I am a passionate **ReactJS Developer** with expertise in building scalable and user-friendly web applications. I love crafting pixel-perfect UI, optimizing performance, and ensuring seamless user experiences.
+I love building modern, user-friendly web applications and solving complex problems with clean, efficient code. My tech stack includes:
 
----
+## 🛠 Tech Stack & Skills
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Programming Languages:** C++, C, Java, JavaScript  
+- **Databases:** MongoDB, MySQL  
+- **Other Tools:** Git, GitHub, REST APIs, Firebase  
 
-## 🔥 Tech Stack  
+## 🔥 What I Do
+- 💡 Build **interactive** and **responsive** web apps with **React.js**  
+- 🚀 Develop **RESTful APIs** and backends using **Node.js**  
+- 🎨 Craft pixel-perfect **UI/UX** experiences  
+- 🏆 Participate in coding challenges & open-source contributions  
 
-- ⚛️ **Frontend:** React.js, Redux, Next.js  
-- 🎨 **Styling:** Tailwind CSS, Styled Components, Bootstrap  
-- 🔗 **API Handling:** Axios, Fetch API  
-- 🛠️ **Development Tools:** Git, Webpack, Vite
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
 
+## 📫 Let's Connect!
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/muklendra-pratap-rao-53bab5279?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJnZxNt3Sk6%2Ban5hKhL%2FrA%3D%3D)
+- 🐦 **Twitter/X:** (https://twitter.com/muklendraprataprao)  
+- 📧 **Email:** (muklendra123@gmail.com)
 
----
+✨ _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuklendraPratapRao&show_icons=true&theme=radical" alt="Muklendra's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuklendraPratapRao&theme=radical" alt="Muklendra's GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuklendraPratapRao&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-
-### 🚀 **Let's build something amazing together!** ✨
