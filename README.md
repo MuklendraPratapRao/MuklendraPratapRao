@@ -41,7 +41,7 @@ I love building modern, user-friendly web applications and solving complex probl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/muklendraprataprao](https://www.linkedin.com/in/muklendra-pratap-rao-53bab5279?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJnZxNt3Sk6%2Ban5hKhL%2FrA%3D%3D)])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muklendra-pratap-rao-53bab5279?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJnZxNt3Sk6%2Ban5hKhL%2FrA%3D%3D)])  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muklendraprataprao)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muklendra123@gmail.com)  
 
